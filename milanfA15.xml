@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/motorola/milanf" remote="github" name="LineageOS/android_device_motorola_milanf" revision="lineage-22.2" />
+  <project path="device/motorola/sm6375-common" remote="github" name="LineageOS/android_device_motorola_sm6375-common" revision="lineage-22.2" />
+  <project path="kernel/motorola/sm6375" remote="github" name="LineageOS/android_kernel_motorola_sm6375" revision="lineage-22.2" />
+  <project path="vendor/motorola/milanf" remote="github" name="TheMuppets/proprietary_vendor_motorola_milanf" revision="lineage-22.2" />
+  <project path="vendor/motorola/sm6375-common" remote="github" name="TheMuppets/proprietary_vendor_motorola_sm6375-common" revision="lineage-22.2" />
+  <project path="hardware/motorola" remote="github" name="LineageOS/android_hardware_motorola" revision="lineage-22.2" />
+  <project path="signing" remote="github" name="BOBtheBlinker/ateam_signing_keys" revision="main" />
+</manifest>
+
