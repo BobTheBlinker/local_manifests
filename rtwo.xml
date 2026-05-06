@@ -2,13 +2,13 @@
 <manifest>
   <!-- DEVICE Trees -->
   <project path="device/motorola/rtwo"
-           remote="github"
-           name="LineageOS/android_device_motorola_rtwo"
-           revision="lineage-23.2" />
+           remote="private"
+           name="BOBtheBlinker/android_device_motorola_rtwo"
+           revision="blissrom-19.3" />
   <project path="device/motorola/sm8550-common"
-           remote="github"
-           name="LineageOS/android_device_motorola_sm8550-common"
-           revision="lineage-23.2" />
+           remote="private"
+           name="BOBtheBlinker/android_device_motorola_sm8550-common"
+           revision="blissrom-19.4" />
   <!-- KERNEL Trees -->
   <project path="kernel/motorola/sm8550"
            remote="github"

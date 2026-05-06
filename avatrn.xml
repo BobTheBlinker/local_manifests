@@ -2,13 +2,13 @@
 <manifest>
   <!-- DEVICE Trees -->
   <project path="device/motorola/avatrn"
-           remote="github"
-           name="LineageOS/android_device_motorola_avatrn"
-           revision="lineage-23.2" />
+           remote="private"
+           name="BOBtheBlinker/android_device_motorola_avatrn"
+           revision="blissrom-19.5" />
   <project path="device/motorola/sm7435-common"
-           remote="github"
-           name="LineageOS/android_device_motorola_sm7435-common"
-           revision="lineage-23.2" />
+           remote="private"
+           name="BOBtheBlinker/android_device_motorola_sm7435-common"
+           revision="blissrom-19.5" />
   <!-- KERNEL Trees -->
   <project path="kernel/motorola/sm7435"
            remote="github"
