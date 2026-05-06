@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- DEVICE Trees -->
+  <project path="device/motorola/rtwo"
+           remote="github"
+           name="LineageOS/android_device_motorola_rtwo"
+           revision="lineage-23.2" />
+  <project path="device/motorola/sm8550-common"
+           remote="github"
+           name="LineageOS/android_device_motorola_sm8550-common"
+           revision="lineage-23.2" />
+  <!-- KERNEL Trees -->
+  <project path="kernel/motorola/sm8550"
+           remote="github"
+           name="LineageOS/android_kernel_motorola_sm8550"
+           revision="lineage-23.2" />
+  <project path="kernel/motorola/sm8550-devicetrees"
+           remote="github"
+           name="LineageOS/android_kernel_motorola_sm8550-devicetrees"
+           revision="lineage-23.2" />
+  <project path="kernel/motorola/sm8550-modules"
+           remote="github"
+           name="LineageOS/android_kernel_motorola_sm8550-modules"
+           revision="lineage-23.2" />
+  <!-- VENDOR Trees -->
+  <project path="vendor/motorola/sm8550-common"
+           remote="github"
+           name="TheMuppets/proprietary_vendor_motorola_sm8550-common"
+           revision="lineage-23.2" />
+  <project path="vendor/motorola/rtwo"
+           remote="github"
+           name="TheMuppets/proprietary_vendor_motorola_rtwo"
+           revision="lineage-23.2" />
+  <!-- EXTRA Trees -->
+  <project path="external/bson"
+           remote="github"
+           name="LineageOS/android_external_bson"
+           revision="lineage-22.2" />
+</manifest>
